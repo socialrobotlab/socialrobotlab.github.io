@@ -159,7 +159,7 @@ header p {
 	border-radius: 4px;
 	margin: 0 8px;
 	font-size: 18px;
-	font-weight: 600;
+	font-weight: 500;
 	transition: all 0.5s;
 }
 .btn-default:hover, .btn-default:focus, .btn-default.focus, .btn-default:active, .btn-default.active {
